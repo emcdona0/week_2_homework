@@ -4,4 +4,81 @@
 
   /* Make the invisible visible */
   border: thin red solid;
+
+}
+
+.head {
+  height: 200px;
+  width: auto;
+  background-color: gray;
+      }
+
+.learnmore {
+  height: auto;
+  width: 33%;
+  float: left;
+      }
+
+.faq {
+  height: auto;
+  width: 33%;
+  float: left;
+      }
+
+.purchase {
+  height: auto;
+  width: 33%;
+  float: left;
+      }
+
+.description {
+  height: auto;
+  width: 33%;
+  float: left;
+      }
+
+.screenshot_1 {
+  height: auto;
+  float: left;
+      }
+
+.clear {
+  clear: both;
+      }
+
+.screenshot_2 {
+  height: auto;
+  width: auto;
+  float: left;
+      }
+
+.shot_description {
+  height: auto;
+  width: 33%;
+  float: left;
+      }
+
+.testimonial {
+  height: auto;
+  width: 25%;
+  float: left;
+      }
+
+.footer {
+  height: auto;
+  width:  auto;
+  float: left;
+      }
+
+.button {
+  color: white;
+  width: 100px;
+  height: auto;
+  background-color: blue;
+  border-radius: 5px;
+  padding: 5px;
+        }
+
+.row {
+  clear: both;
 }
